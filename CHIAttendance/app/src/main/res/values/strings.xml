@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CHI Attendance</string>
+    <string name="app_full_name">Community Health Inspector Attendance</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_attendance">Attendance</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_employees">Employees</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Dashboard -->
+    <string name="total_employees">Total Employees</string>
+    <string name="today_present">Today Present</string>
+    <string name="today_absent">Today Absent</string>
+    <string name="quick_actions">Quick Actions</string>
+    
+    <!-- Attendance -->
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="select_date">Select Date</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="leave">Leave</string>
+    <string name="late">Late</string>
+    <string name="save_attendance">Save Attendance</string>
+    
+    <!-- Reports -->
+    <string name="daily_report">Daily Report</string>
+    <string name="weekly_report">Weekly Report</string>
+    <string name="monthly_report">Monthly Report</string>
+    <string name="generate_report">Generate Report</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="share_report">Share Report</string>
+    
+    <!-- Employee -->
+    <string name="add_employee">Add Employee</string>
+    <string name="edit_employee">Edit Employee</string>
+    <string name="full_name">Full Name</string>
+    <string name="cnic">CNIC</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="designation">Designation</string>
+    <string name="union_council">Union Council</string>
+    <string name="date_of_joining">Date of Joining</string>
+    <string name="status">Status</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    
+    <!-- Search -->
+    <string name="search">Search</string>
+    <string name="search_by_name">Search by Name</string>
+    <string name="search_by_cnic">Search by CNIC</string>
+    <string name="search_by_union_council">Search by Union Council</string>
+    <string name="date_range">Date Range</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="view_history">View History</string>
+    
+    <!-- Settings -->
+    <string name="change_password">Change Password</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="reset_data">Reset All Data</string>
+    <string name="about">About</string>
+    
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="admin_login">Admin Login</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="confirm">Confirm</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+    <string name="no_data_found">No data found</string>
+    <string name="remarks">Remarks</string>
+</resources>
